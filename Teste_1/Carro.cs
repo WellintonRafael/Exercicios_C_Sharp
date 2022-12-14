@@ -16,10 +16,7 @@ public class Carro
         this.price = price;
     }
 
-    public void vrumm()
-    {
-        Console.WriteLine("Vrum!!! Vrumm!!!");
-    }
+    public void vrumm()=>Console.WriteLine("Vrum!!! Vrumm!!!");
 }
 
 

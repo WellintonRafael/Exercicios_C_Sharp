@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 public enum CoresOuCor
-{
-    
-    Verde, Azul, Vermelho, Unicórnio
-
-        
+{    
+    Verde, 
+    Azul, 
+    Vermelho, 
+    Unicórnio        
 }
 
